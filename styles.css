@@ -1,0 +1,40 @@
+.header{
+	background-color:#f1f1f1;
+	display: inline;
+	position: absolute;
+	width:100%;}
+
+.header_right{
+	float: right;
+	width: 50%;
+	background-color:#f1f1f1;}
+
+.head_right{
+	float:right;
+	width: 50%;
+	background-color:#f1f1f1;}
+
+li {display: inline;}
+
+.header_left{
+	float: left;}
+
+li button.sign-in {
+	margin-bottom:30px;
+}
+
+#top_nav {
+	position: relative;
+	margin-top: 0px;}
+
+#top_nav_right {
+	float: right;
+}
+
+.r {
+	position: relative;
+}
+
+ #top_nav_left {
+	margin-top: 30px;
+}
